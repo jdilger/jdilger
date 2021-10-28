@@ -43,7 +43,10 @@ jobs:
             __END__
             eval 'set -o history' 2>/dev/null || unsetopt HIST_IGNORE_SPACE 2>/dev/null
             echo "multi line run works with Literal Block Scalar"
-            
+      
+      - name: install requirements
+        run: pip install -r requirements.txt
+        
       # Runs a single command using the runners shell
       - name: get formatted gee git logs 
         run: python make_logs.py
