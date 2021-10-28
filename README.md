@@ -21,13 +21,13 @@ Here are some ideas to get you started:
   <link rel="stylesheet" href="contributions/static/style.css">
 </head>
 <body>
-  <div class="container">
-    <div class="panel panel-default">
-      <div class="panel-heading">Contributions for <code>GEE repositories</code></div>
-      <div class="panel-body">
+  <div class="container" markdown="1">
+    <div class="panel panel-default" markdown="1">
+      <div class="panel-heading" markdown="1">Contributions for <code>GEE repositories</code></div>
+      <div class="panel-body" markdown="1">
         <center>
-        <div class="contributions-graph">
-          <div class="calendar-row">
+        <div class="contributions-graph" markdown="1">
+          <div class="calendar-row" markdown="1">
             <div class="cell weekday-heading contrib_empty"></div>
             <div class="cell contrib_empty"></div>
             <div class="cell month-heading contrib_empty">Nov</div>
