@@ -17,5 +17,4 @@
 <h3 align="left">Certs:</h3>
 <p align="left"><a href="https://www.credential.net/e39860bd-cfe8-426f-b8c7-d1ea230c0e21#gs.3ntqsb"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52645671" alt="gcp" width="100" height="100"></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdilger&show_icons=true&locale=en" alt="jdilger" /></p>
 
